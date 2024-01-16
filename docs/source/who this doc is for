@@ -1,0 +1,46 @@
+Who is this Documentation For?
+===============================
+This guide caters to:
+
+**Beginners**
+
+If you're new to Sphinx or documentation in general, this is the perfect starting point. No prior knowledge is assumed.
+
+**Experienced Users**
+
+If you're familiar with Sphinx or similar tools but seek to refresh your knowledge, this guide offers a comprehensive resource.
+
+What are the Prerequisites?
+===========================
+
+Absolutely nothing! Regardless of your background, this guide is crafted for beginners. All you need is a willingness to learn and some patience. 
+
+We'll cover everything from setting up your environment to publishing your first documentation. This guide is particularly beneficial for writers eager to dive into Sphinx.
+
+What will you Learn?
+====================
+This documentation is structured, with each section building upon the previous one. 
+Here's how we'll progress:
+
+**Introduction to Sphinx**
+
+This section will cover its broad range of features, illustrating how Sphinx enhances clarity and visual appeal in documentation, and emphasize the crucial role of documentation in software development.
+
+**Setting Up Your Project**
+
+You'll learn the essentials of setting up your project. This includes creating and cloning a GitHub repository, an integral part of hosting and sharing your documentation. Additionally, you'll be guided through the process of installing a virtual environment and Sphinx itself, laying the groundwork for a smooth integration with your project.
+
+**Building Your First Documentation with Sphinx**
+
+Once your environment is ready, the focus shifts to actual documentation creation with Sphinx. You'll explore the configuration and initial setup of Sphinx, including the toctree and how to structure your documentation effectively. This segment will also teach you the basics of writing in reStructuredText, essential for creating and editing your documentation.
+
+**Customizing and Publishing Your Documentation**
+
+The final stage involves personalizing and publishing your documentation. You'll learn how to customize your documentation to make it uniquely yours and explore different publishing formats, including PDF. The guide will also cover the process of pushing your documentation to GitHub, utilizing .gitignore files and Git commands, and alternative publishing platforms like Read the Docs and GitHub Pages.
+
+**Maintaining and Troubleshooting Your Documentation**
+
+You'll gain insights into best practices for maintaining your documentation, ensuring it remains up-to-date and user-friendly. The guide will also provide troubleshooting advice and resources for further assistance.
+
+Contributing 
+==================
