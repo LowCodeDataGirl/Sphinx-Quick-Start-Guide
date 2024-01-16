@@ -43,25 +43,24 @@ At the end of this guide, you'll have your documentation and understand not just
    
    creating your first sphinx project.rst
 
-toctree::
+.. toctree::
    :hidden:
    :maxdepth: 20
-   :caption: INTRODUCTION TO ReSTRUCTURED TEXT
-   
+   :caption: INTRODUCTION TO RESTRUCTURED TEXT
+      
    intro to reStructuredText.rst
 
-toctree::
+.. toctree::
    :hidden:
    :maxdepth: 20
    :caption: CUSTOMIZING YOUR DOCUMENTATION
    
-toctree::
+.. toctree::
    :hidden:
    :maxdepth: 20
    :caption: PUSHING DOCUMENTATION TO GITHUB
     
-
-toctree::
+.. toctree::
    :hidden:
    :maxdepth: 20
    :caption: PUBLISHING YOUR DOCUMENTATION
