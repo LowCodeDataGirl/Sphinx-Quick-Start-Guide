@@ -55,8 +55,6 @@ toctree::
    :maxdepth: 20
    :caption: CUSTOMIZING YOUR DOCUMENTATION
    
-    
-
 toctree::
    :hidden:
    :maxdepth: 20
