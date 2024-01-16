@@ -26,7 +26,7 @@ At the end of this guide, you'll have your documentation and understand not just
    :maxdepth: 20
    :caption: Introduction to Sphinx
 
-   who is this doc for
+   who this doc is for
    intro to sphinx.rst
 
 .. toctree::
