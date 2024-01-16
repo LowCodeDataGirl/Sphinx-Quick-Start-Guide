@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Sphinx Quick Start Guide'
+project = 'Sphinx Made Easy'
 copyright = '2023, Peace Aisosa'
 author = 'Peace Aisosa'
 
@@ -31,5 +31,4 @@ templates_path = ['_templates']
 
 html_theme = 'sphinx_rtd_theme'
 
-# -- Options for EPUB output
-epub_show_urls = 'footnote'
+ 
